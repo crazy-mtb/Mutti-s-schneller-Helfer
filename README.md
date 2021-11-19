@@ -1,6 +1,4 @@
 # Mutti-s-schneller-Helfer
 
-This respository shall be an easy understandable tutorial for the handling of her new windows 11 based PC.
-Although not being 81 yet, she has been still very active in using the internet.
-
-To tutorial shall enable her to manage the most important issues on her own.
+This tutorial shall enable my 80 years old mother to manage the most important PC-issues on her own.
+Due to being still very active in using the internet, she shall be enabled to get a quick access to her new Windows 11 based PC. 
